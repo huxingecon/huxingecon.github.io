@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /publications/index.html
-title: Publications
+permalink: /Research/index.html
+title: Research
 ---
 
 Lastest Update: Sep 3rd, 2023&nbsp;
