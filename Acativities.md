@@ -17,5 +17,5 @@ Our sessions are dedicated to a wide array of topics within the field of interna
 At each gathering, one of our Ph.D. students presents a recent/classical theoretical research paper. 
 
   <br>
----
+
 
