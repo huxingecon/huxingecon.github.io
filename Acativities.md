@@ -1,10 +1,10 @@
 ---
 layout: page
 permalink: /Acativities/index.html
-title: Acativities
+title: Activities
 ---
 
-Lastest Update: Feb 5th, 2024&nbsp;
+Latest Update: Feb 5th, 2024&nbsp;
 
 ## HKU International Economics Study Groups
 
