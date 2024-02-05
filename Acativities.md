@@ -15,6 +15,7 @@ Since March 31, 2023, I have been co-organizing an academic endeavor named the H
 Our sessions are dedicated to a wide array of topics within the field of international economics, with the goal of fostering knowledge exchange and understanding through in-depth discussions. <br>
 
 At each gathering, one of our Ph.D. students presents a recent/classical theoretical research paper. 
+
   <br>
 ---
 
