@@ -8,7 +8,7 @@ Lastest Update: Feb 5th, 2024&nbsp;
 
 ## HKU International Economics Study Groups
 
-<img src="https://huxingecon.github.io/HKU_IESG.jpg" class="floatpic" height="300" align=left ><br>
+<img src="https://huxingecon.github.io/HKU_IESG.jpg"  height="300" align=center ><br>
 
 Since March 31, 2023, I have been co-organizing an academic endeavor named the HKU International Economics Study Group. <br> 
 Our sessios are dedicated to a wide array of topics within the field of international economics, with the goal of fostering knowledge exchange and understanding through in-depth discussions. <br>
