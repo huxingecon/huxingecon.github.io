@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://huxingecon.github.io/huxing_sit_2.jpeg" class="floatpic" height="600">
+<img src="https://huxingecon.github.io/huxing_sit_2.jpeg" class="floatpic" height="800">
 
 Hello! I'm **Xing HU**.<br>
 
