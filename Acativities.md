@@ -6,7 +6,7 @@ title: Activities
 
 Latest Update: Feb 5th, 2024&nbsp;
 
-## HKU International Economics Study Groups
+## HKU International Economics Study Group
 
 <img src="https://huxingecon.github.io/HKU_IESG.jpg"  height="180" align=center ><br>
 
