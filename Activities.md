@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Acativities/index.html
+permalink: /Activities/index.html
 title: Activities
 ---
 
