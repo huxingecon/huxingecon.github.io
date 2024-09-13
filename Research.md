@@ -25,7 +25,7 @@ Latest Update: Sep 13rd, 2024&nbsp;
 ## Conference Presentations
 - The Asian Meeting of the Econometric Society<br>(in Zhejiang University , Hangzhou, China, Jun 28-30, 2024)<br>
 
-- The North American Summer Meeting of the Econometric Society<br>(in the Vanderbilt University, Nashville, United States, Jun 13-16, 2024)<br>
+- The North American Summer Meeting of the Econometric Society<br>(in Vanderbilt University, Nashville, United States, Jun 13-16, 2024)<br>
 
 - The 11th Hong Kong Economic Association Biennial Conference<br>(in the University of Hong Kong , Hong Kong SAR, China, Dec 14-15, 2023)<br>
 
