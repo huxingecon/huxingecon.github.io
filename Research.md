@@ -29,7 +29,7 @@ Latest Update: Sep 13rd, 2024&nbsp;
 
 - The 11th Hong Kong Economic Association Biennial Conference<br>(in the University of Hong Kong , Hong Kong SAR, China, Dec 14-15, 2023)<br>
 
-- The Annual Meeting of the Latin American and the Caribbean Economic Association (LACEA) and the Latin American Meeting of the Econometric Society (LAMES)<br>(in The Pontificia Universidad Javeriana, Bogot\acute{a} Colombia, November 16-18, 2023)<br>
+- The Annual Meeting of the Latin American and the Caribbean Economic Association (LACEA) and the Latin American Meeting of the Econometric Society (LAMES)<br>(in The Pontificia Universidad Javeriana, Bogotá Colombia, November 16-18, 2023)<br>
 
 - The 6th China Opening and Development Research Forum<br>(in Huazhong University of Science and Technology, China, July 1-2, 2023)<br>
 
