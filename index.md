@@ -14,7 +14,7 @@ My primary areas of research interest encompass **Empirical Industrial Organizat
 
 I am deeply passionate about unveiling complex economic patterns through rigorous empirical analysis and contributing to the understanding of global economic phenomena.<br>
 
-- **CV**: [Xing HU's Curriculum Vitae](https://huxingecon.github.io/file/huxing_CV_2024jan22.pdf).
+- **CV**: [Xing HU's Curriculum Vitae](https://huxingecon.github.io/file/huxing_CV_2024sep13.pdf).
 - **E-mail**: huxing@connect.hku.hk
 
 

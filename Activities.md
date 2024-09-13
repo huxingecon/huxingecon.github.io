@@ -4,7 +4,7 @@ permalink: /Activities/index.html
 title: Activities
 ---
 
-Latest Update: Feb 5th, 2024&nbsp;
+Latest Update: Sep 13rd, 2024&nbsp;
 
 ## HKU International Economics Study Group
 

@@ -24,7 +24,7 @@ links:
   - title: About Me
     url: /
   - title: CV
-    url: /file/huxing_CV_2024jan22.pdf
+    url: /file/huxing_CV_2024sep13.pdf
   - title: Research
     url: /Research/
   - title: Activities
@@ -66,4 +66,4 @@ disqus:
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
 
-# Latest update in 2024/02/20 by Xing HU.
+# Latest update in 2024/09/13 by Xing HU.
