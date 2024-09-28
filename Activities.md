@@ -18,7 +18,7 @@ At each meeting, one of our Ph.D. students presents either recent/classical pape
 
 - Meeting 21: Sep 24, 2024, Presenter: [Yulin WANG](https://sites.google.com/view/yulinw)<br>
 
-- Meeting 20: Sep 10, 2024, Presenter: Xing HU<br>
+- Meeting 20: Sep 10, 2024, Presenter: [Xing HU](https://huxing.site/)<br>
 
 - Meeting 19: Aug 23, 2024, Presenter: Jun LI<br>
 
@@ -40,7 +40,7 @@ At each meeting, one of our Ph.D. students presents either recent/classical pape
 
 - Meeting 10: Sep 07, 2023, Presenter: Yuyuan ZHANG<br>
 
-- Meeting 9: Aug 25, 2023, Presenter: Xing HU<br>
+- Meeting 9: Aug 25, 2023, Presenter: [Xing HU](https://huxing.site/)<br>
 
 - Meeting 8: Jul 31, 2023, Presenter: Xinbei ZHOU<br>
 
@@ -56,7 +56,7 @@ At each meeting, one of our Ph.D. students presents either recent/classical pape
 
 - Meeting 2: Apr 04, 2023, Presenter: Yameng FAN<br>
 
-- Meeting 1: Mar 31, 2023, Presenter: Xing HU<br>
+- Meeting 1: Mar 31, 2023, Presenter: [Xing HU](https://huxing.site/)<br>
 
   <br>
 
