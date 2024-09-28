@@ -16,7 +16,7 @@ Our sessions cover a wide range of topics in international economics and related
 
 At each meeting, one of our Ph.D. students presents either recent/classical papers or shares academic techniques. Below is a list of the presentations:<br>
 
-- Meeting 21: Sep 24, 2024 Presenter: [Yulin WANG](https://sites.google.com/view/yulinw)<br>
+- Meeting 21: Sep 24, 2024, Presenter: [Yulin WANG](https://sites.google.com/view/yulinw)<br>
 
 - Meeting 20: Sep 10, 2024, Presenter: Xing HU<br>
 
