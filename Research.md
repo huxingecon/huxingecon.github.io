@@ -4,7 +4,7 @@ permalink: /Research/index.html
 title: Research
 ---
 
-Latest Update: Sep 13rd, 2024&nbsp;
+Latest Update: Sep 28th, 2024&nbsp;
 
 ## Working Papers
 
