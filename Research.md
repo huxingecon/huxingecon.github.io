@@ -8,17 +8,17 @@ Latest Update: Sep 13rd, 2024&nbsp;
 
 ## Working Papers
 
-- **Transportation Network and Market Integration: Evidence from China**. (September, 2024)<br>Guojun HE, Xing HU, Shengyu LI, and Hongsong ZHANG<br>
+- **Transportation Network and Market Integration: Evidence from China**. (September, 2024)<br>[Guojun HE](https://www.guojunhe.com/), [Xing HU](https://huxing.site/), [Shengyu LI](https://shengyuli.weebly.com/), and [Hongsong ZHANG](https://hongsongzhang.weebly.com/)<br>
 
-- **Returns to Scale, Productivity, and Markup: Revisit the Export Premium**. (September, 2024)<br>Xing HU, Yangting JIANG, and Hongsong ZHANG<br>
+- **Returns to Scale, Productivity, and Markup: Revisit the Export Premium**. (September, 2024)<br>[Xing HU](https://huxing.site/), [Yangting JIANG](https://yatingjiang.weebly.com/), and [Hongsong ZHANG](https://hongsongzhang.weebly.com/)<br>
 
 ---
 
 ## Selected Work in Progress
 
-- **Trade liberalization, Productivity, Markdown, and Markup**. (September, 2024)<br>Xing HU<br>
+- **Trade liberalization, Productivity, Markdown, and Markup**. (September, 2024)<br>[Xing HU](https://huxing.site/)<br>
 
-- **The Rise (and Fall) of Chinese Manufacturing Firms: Efficiency versus Market Power**. (September, 2024)<br>Xing HU, Yangting JIANG, and Hongsong ZHANG<br>
+- **The Rise (and Fall) of Chinese Manufacturing Firms: Efficiency versus Market Power**. (September, 2024)<br>[Xing HU](https://huxing.site/), [Yangting JIANG](https://yatingjiang.weebly.com/), and [Hongsong ZHANG](https://hongsongzhang.weebly.com/)<br>
 
 ---
 
