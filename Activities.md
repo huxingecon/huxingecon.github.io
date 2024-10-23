@@ -38,7 +38,7 @@ At each meeting, one of our Ph.D. students presents either recent/classical pape
 
 - Meeting 11: Sep 21, 2023, Presenter: Yicheng LIU<br>
 
-- Meeting 10: Sep 07, 2023, Presenter: Yuyuan ZHANG<br>
+- Meeting 10: Sep 07, 2023, Presenter: [Yuyuan ZHANG](https://yuyuanecon.github.io)<br>
 
 - Meeting 9: Aug 25, 2023, Presenter: [Xing HU](https://huxing.site/)<br>
 
@@ -52,7 +52,7 @@ At each meeting, one of our Ph.D. students presents either recent/classical pape
 
 - Meeting 4: Apr 21, 2023, Presenter: Yi XIANG<br>
 
-- Meeting 3: Apr 15, 2023, Presenter: Yuyuan ZHANG<br>
+- Meeting 3: Apr 15, 2023, Presenter: [Yuyuan ZHANG](https://yuyuanecon.github.io)<br>
 
 - Meeting 2: Apr 04, 2023, Presenter: Yameng FAN<br>
 
