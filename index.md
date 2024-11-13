@@ -14,7 +14,7 @@ My primary areas of research interest encompass **Empirical Industrial Organizat
 
 I am especially focused on examining the influence of trade shocks and economic geographic factors on firms' performance in **production**, **supply chains**, and **sales markets**, using both reduced-form and structural estimation methodologies.<br>
 
-- **CV**: [Xing HU's Curriculum Vitae](https://huxingecon.github.io/file/huxing_CV_2024sep13.pdf).
+- **CV**: [Xing HU's Curriculum Vitae](https://huxingecon.github.io/file/huxing_CV_2024nov13.pdf).
 - **E-mail**: huxing@connect.hku.hk
 
 
