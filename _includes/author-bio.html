@@ -12,18 +12,13 @@
 
 <!-- Email -->
 {% if site.owner.email %}
-  <p style="text-indent:0;margin-top:1.5em;">
-    <a href="mailto:{{ site.owner.email }}" target="_blank"><i class="icon-mail"></i> Email: {{ site.owner.email }}</a>
-  </p>
+  <p style="text-indent:0;"><strong>Email:</strong> {{ site.owner.email }}</p>
 {% endif %}
 
 <!-- CV -->
 {% if site.owner.cv %}
-  <p style="text-indent:0;">
-    <a href="{{ site.owner.cv }}" target="_blank"><i class="icon-file"></i> Download CV</a>
-  </p>
+  <p style="text-indent:0;"><strong>CV:</strong> {{ site.owner.cv }}</p>
 {% endif %}
-
 
 {% if site.owner.twitter %}<p style="text-indent:0;"><a href="https://twitter.com/{{ site.owner.twitter }}"><i class="icon-twitter"></i> Twitter</a></p>{% endif %}
 
