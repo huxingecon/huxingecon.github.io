@@ -23,6 +23,9 @@ Latest Update: Nov 14th, 2024&nbsp;
 ---
 
 ## Conference Presentations
+
+- The Annual Meeting of China Trade Research Group<br>(in Lingnan University , Hong Kong SAR, China, Dec 6, 2024)<br>
+
 - The Asian Meeting of the Econometric Society<br>(in Zhejiang University , Hangzhou, China, Jun 28-30, 2024)<br>
 
 - The North American Summer Meeting of the Econometric Society<br>(in Vanderbilt University, Nashville, United States, Jun 13-16, 2024)<br>
