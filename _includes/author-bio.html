@@ -5,6 +5,26 @@
 <p>{{ site.owner.bio }}</p>
 {% if site.owner.email %}<p style="text-indent:0;margin-top:1.5em;"><a href="mailto:{{ site.owner.email }}" target="_blank"><i class="icon-mail"></i> Email</a></p>{% endif %}
 
+<!-- Research Interests -->
+{% if site.owner.research_interests %}
+  <p><strong>Research Interests:</strong> {{ site.owner.research_interests }}</p>
+{% endif %}
+
+<!-- Email -->
+{% if site.owner.email %}
+  <p style="text-indent:0;margin-top:1.5em;">
+    <a href="mailto:{{ site.owner.email }}" target="_blank"><i class="icon-mail"></i> Email: {{ site.owner.email }}</a>
+  </p>
+{% endif %}
+
+<!-- CV -->
+{% if site.owner.cv %}
+  <p style="text-indent:0;">
+    <a href="{{ site.owner.cv }}" target="_blank"><i class="icon-file"></i> Download CV</a>
+  </p>
+{% endif %}
+
+
 {% if site.owner.twitter %}<p style="text-indent:0;"><a href="https://twitter.com/{{ site.owner.twitter }}"><i class="icon-twitter"></i> Twitter</a></p>{% endif %}
 
 {% if site.owner.facebook %}<p style="text-indent:0;"><a href="https://facebook.com/{{ site.owner.facebook }}"><i class="icon-facebook"></i> Facebook</a></p>{% endif %}
@@ -25,4 +45,4 @@
 
 <!-- {% if site.owner.Bilibili %}<p style="text-indent:0;"><a href="https://bilibili.com/{{ site.owner.bilibili }}"><i class="icon-bilibili"></i> Bilibili</a></p>{% endif %} -->
 
-<!-- Lastly modified by Hanlin CAI in 2023/01/15 -->
+<!-- Lastly modified by Xing HU in 2024/11/13 -->
