@@ -5,6 +5,11 @@
 <p>{{ site.owner.bio }}</p>
 {% if site.owner.email %}<p style="text-indent:0;margin-top:1.5em;"><a href="mailto:{{ site.owner.email }}" target="_blank"><i class="icon-mail"></i> Email</a></p>{% endif %}
 
+<!-- BIO -->
+{% if site.owner.bio %}
+  <p style="text-indent:0;">{{ site.owner.bio }}</p>
+{% endif %}
+
 <!-- Research Interests -->
 {% if site.owner.research_interests %}
   <p style="text-indent:0;"><strong>Research Interests:</strong> {{ site.owner.research_interests }}</p>
