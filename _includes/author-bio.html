@@ -13,13 +13,13 @@
 {% endif %}
 
 <!-- Email -->
-{% if site.owner.email %}
-  <p style="text-indent:0;"><strong>Email:</strong> {{ site.owner.email }}</p>
+{% if site.owner.bio_email %}
+  <p style="text-indent:0;"><strong>Email:</strong> {{ site.owner.bio_email }}</p>
 {% endif %}
 
 <!-- CV -->
-{% if site.owner.cv %}
-  <p style="text-indent:0;"><strong>CV:</strong> {{ site.owner.cv }}</p>
+{% if site.owner.bio_cv %}
+  <p style="text-indent:0;"><strong>CV:</strong> {{ site.owner.bio_cv }}</p>
 {% endif %}
 
 {% if site.owner.twitter %}<p style="text-indent:0;"><a href="https://twitter.com/{{ site.owner.twitter }}"><i class="icon-twitter"></i> Twitter</a></p>{% endif %}
