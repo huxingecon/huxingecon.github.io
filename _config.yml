@@ -9,8 +9,9 @@ owner:
   name: Xing HU
   avatar: huxing_head.jpg
   bio: Ph.D. Canditate at HKU
+  Research Interest: Empirical IO, International Trade, Spatial Economics
   email: huxing@connect.hku.hk
-  cv: https://huxing.site/file/huxing_CV_2024sep13.pdf
+  cv: https://huxing.site/file/huxing_CV_2024nov13.pdf
   
   
 # Analytics and webmaster tools stuff goes here
@@ -26,7 +27,7 @@ links:
   - title: About Me
     url: /
   - title: CV
-    url: /file/huxing_CV_2024sep13.pdf
+    url: /file/huxing_CV_2024nov13.pdf
   - title: Research
     url: /Research/
   - title: Activities
