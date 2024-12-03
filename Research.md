@@ -18,13 +18,15 @@ Latest Update: Nov 14th, 2024&nbsp;
 
 ## Selected Work in Progress
 
-- **The Rise (and Fall) of Chinese Manufacturing Firms: Efficiency versus Market Power**. (September, 2024)<br>[Xing HU](https://huxing.site/), [Yangting JIANG](https://yatingjiang.weebly.com/), and [Hongsong ZHANG](https://hongsongzhang.weebly.com/)<br>
+- **The Rise (and Fall) of Chinese Manufacturing Firms: Efficiency versus Market Power**<be>
+
+- **Detecting Learning by Importing from Competitors**<br>
 
 ---
 
 ## Conference Presentations
 
-- The 14th Annual Meeting of China Trade Research Group<br>(in Lingnan University , Hong Kong SAR, China, Dec 6, 2024)<br>
+- The 14th Annual Meeting of China Trade Research Group (Scheduled)<br>(in Lingnan University , Hong Kong SAR, China, Dec 6, 2024)<br>
 
 - The Asian Meeting of the Econometric Society<br>(in Zhejiang University , Hangzhou, China, Jun 28-30, 2024)<br>
 
