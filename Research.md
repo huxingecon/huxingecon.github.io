@@ -8,7 +8,7 @@ Latest Update: Nov 14th, 2024&nbsp;
 
 ## Working Papers
 
-- [**Distortions, Market Access, and Firm Performance: Evidence from China**, 2024.](https://huxingecon.github.io/file/JMP_HuXing_2024Nov23.pdf) (Job Market Paper) <br>[Guojun HE](https://www.guojunhe.com/), [Xing HU](https://huxing.site/), [Shengyu LI](https://shengyuli.weebly.com/), and [Hongsong ZHANG](https://hongsongzhang.weebly.com/)<br>
+- [**Market Access and Firm Performance: Evidence from China**, 2024.](https://huxingecon.github.io/file/JMP_HuXing_2024Dec17.pdf) (Job Market Paper) <br>[Guojun HE](https://www.guojunhe.com/), [Xing HU](https://huxing.site/), [Shengyu LI](https://shengyuli.weebly.com/), and [Hongsong ZHANG](https://hongsongzhang.weebly.com/)<br>
 
 - [**Returns to Scale, Productivity, and Markup: Revisit the Export Premium**, 2024.](https://huxingecon.github.io/file/OtherPaper_1_HuXing_2024Nov14.pdf) (Submitted) <br>[Xing HU](https://huxing.site/), [Yangting JIANG](https://yatingjiang.weebly.com/), and [Hongsong ZHANG](https://hongsongzhang.weebly.com/)<br>
 
