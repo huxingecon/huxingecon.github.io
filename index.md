@@ -8,7 +8,7 @@ layout: page
 
 Hello! I'm **Xing HU**.<br>
 
-I am currently a Ph.D. candidate at **the University of Hong Kong (HKU)**.<br> 
+I am currently a Post-doctoral Fellow at **the University of Hong Kong (HKU)**.<br> 
 
 My primary areas of research interest encompass **Empirical Industrial Organization**, **International Trade**, and **Spatial Economics**.<br> 
 
