@@ -1,6 +1,6 @@
 title: Xing HU (HKU)'s Homepage
 tagline: Here is the personal website of Xing HU. Powered by Jekyll, based on the Minimal Mistakes theme.
-description: Ph.D. Candidate in Economics at HKU Business School.
+description: Post-doctoral Fellow at HKU Business School.
 #Comment out url when working locally to resolve base urls correctly
 url: https://huxingecon.github.io
 
@@ -8,7 +8,7 @@ url: https://huxingecon.github.io
 owner:
   name: Xing HU
   avatar: huxing_head.jpg
-  bio: Ph.D. Candidate at HKU
+  bio: Post-doctoral Fellow at HKU
   research_interests: Empirical IO, International Trade, Spatial Economics
   
   
