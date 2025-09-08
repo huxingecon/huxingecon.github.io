@@ -14,7 +14,7 @@ Graduate-level course, covering Microeconomics, Macroeconomics, and Econometrics
 
 ## IDE002 Mathematics and Statistics (Lingnan University, Summer 2025)
 
-Graduate-level course, covering calculus, linear algebra, and statistics. It focuses on quantification skills, analytical frameworks, and theoretical solutions relevant to international and development economics.
+Graduate-level course, covering Calculus, Linear Algebra, and Statistics. It focuses on quantification skills, analytical frameworks, and theoretical solutions relevant to international and development economics.
 
   <br>
 
