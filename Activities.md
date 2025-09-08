@@ -6,13 +6,11 @@ title: Activities
 
 Latest Update: Sep 8th, 2025&nbsp;
 
-## HKU International Economics Study Group
+## HKU Economics and Finance Study Group
 
-<img src="https://huxingecon.github.io/HKU_IESG.jpg"  height="180" align=center ><br>
+Since March 31, 2023, I have co-founded and co-organized an academic organization called the HKU Economics and Finance Study Group.<br>
 
-Since March 31, 2023, I have co-founded and co-organized an academic organization called the HKU International Economics Study Group.<br>
-
-Our sessions cover a wide range of topics in international economics and related areas, aiming to foster knowledge exchange and deepen understanding through in-depth discussions.<br>
+Our sessions cover a wide range of topics in Economics, Finance and related areas, aiming to foster knowledge exchange and deepen understanding through in-depth discussions.<br>
 
 At each meeting, one of our Ph.D. students presents either recent/classical papers or shares academic techniques. Below is a list of the presentations:<br>
 
