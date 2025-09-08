@@ -4,7 +4,7 @@ permalink: /Activities/index.html
 title: Activities
 ---
 
-Latest Update: Sep 28th, 2024&nbsp;
+Latest Update: Sep 8th, 2025&nbsp;
 
 ## HKU International Economics Study Group
 
@@ -18,7 +18,7 @@ At each meeting, one of our Ph.D. students presents either recent/classical pape
 
 - Meeting 25: May 22, 2025, Presenter: [Xing HU](https://huxing.site/)<br>
 
-- Meeting 24: Feb 27, 2025, Presenter: [Xing HU](https://huxing.site/), [Zexi ZHOU]([https://huxing.site/](https://sites.google.com/view/zexizhou), Jun LI, [Jinling MA](https://sites.google.com/view/jinlingma/home?authuser=0)<br>
+- Meeting 24: Feb 27, 2025, Presenter: [Xing HU](https://huxing.site/), [Zexi ZHOU](https://huxing.site/](https://sites.google.com/view/zexizhou), Jun LI, [Jinling MA](https://sites.google.com/view/jinlingma/home?authuser=0)<br>
 
 - Meeting 23: Feb 25, 2025, Presenter: [Xing HU](https://huxing.site/)<br>
 
