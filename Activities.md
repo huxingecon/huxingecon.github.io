@@ -16,6 +16,14 @@ Our sessions cover a wide range of topics in international economics and related
 
 At each meeting, one of our Ph.D. students presents either recent/classical papers or shares academic techniques. Below is a list of the presentations:<br>
 
+- Meeting 25: May 22, 2025, Presenter: [Xing HU](https://huxing.site/)<br>
+
+- Meeting 24: Feb 27, 2025, Presenter: [Xing HU](https://huxing.site/), [Zexi ZHOU]([https://huxing.site/](https://sites.google.com/view/zexizhou)), Jun LI, [Jinling MA](https://sites.google.com/view/jinlingma/home?authuser=0)<br>
+
+- Meeting 23: Feb 25, 2025, Presenter: [Xing HU](https://huxing.site/)<br>
+
+- Meeting 22: Feb 24, 2025, Presenter: [Xing HU](https://huxing.site/)<br>
+
 - Meeting 21: Sep 24, 2024, Presenter: [Yulin WANG](https://sites.google.com/view/yulinw)<br>
 
 - Meeting 20: Sep 10, 2024, Presenter: [Xing HU](https://huxing.site/)<br>
