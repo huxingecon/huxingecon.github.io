@@ -10,7 +10,7 @@ Latest Update: Feb 23th, 2026&nbsp;
 
 - [**Returns to Scale, Productivity, and Markup: Revisit the Export Premium**, 2026.](https://huxingecon.github.io/file/OtherPaper_1_HuXing_2025Sep23.pdf) (Submitted) <br>[Xing HU](https://huxing.site/), [Yangting JIANG](https://yatingjiang.weebly.com/), and [Hongsong ZHANG](https://hongsongzhang.weebly.com/)<br>
 
-- [**Market Access and Firm Performance: Evidence from China**, 2026.](https://huxingecon.github.io/file/HHLZ_ESEM_2026.pdf) (Job Market Paper) <br>[Guojun HE](https://www.guojunhe.com/), [Xing HU](https://huxing.site/), [Shengyu LI](https://shengyuli.weebly.com/), and [Hongsong ZHANG](https://hongsongzhang.weebly.com/)<br>
+- [**Market Access through Production Networks: Impact of Highway Development on Firm Performance**, 2026.](https://huxingecon.github.io/file/HHLZ_ESEM_2026.pdf) (Job Market Paper) <br>[Guojun HE](https://www.guojunhe.com/), [Xing HU](https://huxing.site/), [Shengyu LI](https://shengyuli.weebly.com/), and [Hongsong ZHANG](https://hongsongzhang.weebly.com/)<br>
 
 - **Productivity, Markdown, and Markup**, 2026. (Draft available upon request))<br>[Xing HU](https://huxing.site/)<br>
 
