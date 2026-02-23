@@ -4,15 +4,15 @@ permalink: /Research/index.html
 title: Research
 ---
 
-Latest Update: Sep 23th, 2025&nbsp;
+Latest Update: Feb 23th, 2026&nbsp;
 
 ## Working Papers
 
-- [**Returns to Scale, Productivity, and Markup: Revisit the Export Premium**, 2025.](https://huxingecon.github.io/file/OtherPaper_1_HuXing_2025Sep23.pdf) (Submitted) <br>[Xing HU](https://huxing.site/), [Yangting JIANG](https://yatingjiang.weebly.com/), and [Hongsong ZHANG](https://hongsongzhang.weebly.com/)<br>
+- [**Returns to Scale, Productivity, and Markup: Revisit the Export Premium**, 2026.](https://huxingecon.github.io/file/OtherPaper_1_HuXing_2025Sep23.pdf) (Submitted) <br>[Xing HU](https://huxing.site/), [Yangting JIANG](https://yatingjiang.weebly.com/), and [Hongsong ZHANG](https://hongsongzhang.weebly.com/)<br>
 
-- [**Market Access and Firm Performance: Evidence from China**, 2024.](https://huxingecon.github.io/file/JMP_HuXing_2024Dec17.pdf) (Job Market Paper) <br>[Guojun HE](https://www.guojunhe.com/), [Xing HU](https://huxing.site/), [Shengyu LI](https://shengyuli.weebly.com/), and [Hongsong ZHANG](https://hongsongzhang.weebly.com/)<br>
+- [**Market Access and Firm Performance: Evidence from China**, 2026.](https://huxingecon.github.io/file/HHLZ_ESEM_2026.pdf) (Job Market Paper) <br>[Guojun HE](https://www.guojunhe.com/), [Xing HU](https://huxing.site/), [Shengyu LI](https://shengyuli.weebly.com/), and [Hongsong ZHANG](https://hongsongzhang.weebly.com/)<br>
 
-- **Productivity, Markdown, and Markup**, 2024. (Draft available upon request))<br>[Xing HU](https://huxing.site/)<br>
+- **Productivity, Markdown, and Markup**, 2026. (Draft available upon request))<br>[Xing HU](https://huxing.site/)<br>
 
 ---
 
