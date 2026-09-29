@@ -10,9 +10,9 @@ Hello! I'm **Xing HU**.<br>
 
 I am currently a Post-doctoral Fellow at **the University of Hong Kong (HKU)**.<br> 
 
-My primary areas of research interest encompass **Empirical Industrial Organization**, **International Trade**, and **Spatial Economics**.<br> 
+My primary areas of research interest encompass **Industrial Organization**, **Microeconomics**, and **Applied Econometrics**.<br> 
 
-I am especially focused on examining the influence of trade shocks and economic geographic factors on firms' performance in **production**, **supply chains**, and **sales markets**, using both reduced-form and structural estimation methodologies.<br>
+I am especially focused on examining the influence of policy shocks on firms' performance in **production**, **supply chains**, and **sales markets**, using both reduced-form causal design, structural estimation methodologies, and theoretical models.<br>
 
 - **CV**: [Xing HU's Curriculum Vitae](https://huxingecon.github.io/file/CV_2026Feb23.pdf).
 - **E-mail**: huxing@connect.hku.hk
