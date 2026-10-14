@@ -14,7 +14,7 @@ My primary areas of research interest encompass **Empirical Industrial Organizat
 
 I am especially focused on examining the influence of policy shocks on firms' performance in **production**, **supply chains**, and **sales markets**, using both reduced-form causal design, structural estimation methodologies, and theoretical models.<br>
 
-- **CV**: [Xing HU's Curriculum Vitae](https://huxingecon.github.io/file/CV_2026Feb23.pdf).
+- **CV**: [Xing HU's Curriculum Vitae](https://huxingecon.github.io/file/CV_2026Oct14.pdf).
 - **E-mail**: huxing@connect.hku.hk
 
 
