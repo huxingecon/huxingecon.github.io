@@ -27,6 +27,7 @@ Latest Update: Feb 23th, 2026&nbsp;
 ---
 
 ## Conference Presentations
+- China Center for Economic Research Summer Institute <br>(in Peking University , Beijing, China, Jun 14-15, 2025)(Beijing)
 
 - The 14th Annual Meeting of China Trade Research Group<br>(in Lingnan University , Hong Kong SAR, China, Dec 6, 2024)<br>
 
