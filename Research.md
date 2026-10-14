@@ -8,7 +8,7 @@ Latest Update: Feb 23th, 2026&nbsp;
 
 ## Working Papers
 
-- [**Producer Services in China**, 2026.](https://huxingecon.github.io/file/HLZ_2026.pdf) (JMP) <br>[Xing HU](https://huxing.site/), [Ming LI]([https://yatingjiang.weebly.com/](https://sites.google.com/view/mingli1/), and [Hongsong ZHANG](https://hongsongzhang.weebly.com/)<br>
+- [**Producer Services in China**, 2026.](https://huxingecon.github.io/file/HLZ_2026.pdf) (JMP) <br>[Xing HU](https://huxing.site/), [Ming LI](https://sites.google.com/view/mingli1/), and [Hongsong ZHANG](https://hongsongzhang.weebly.com/)<br>
 
 - [**Returns to Scale, Productivity, and Markup: Revisit the Export Premium**, 2026.](https://huxingecon.github.io/file/HJZ_2026.pdf) (Submitted) <br>[Xing HU](https://huxing.site/), [Yangting JIANG](https://yatingjiang.weebly.com/), and [Hongsong ZHANG](https://hongsongzhang.weebly.com/)<br>
 
