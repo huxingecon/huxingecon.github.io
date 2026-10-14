@@ -8,13 +8,13 @@ Latest Update: Feb 23th, 2026&nbsp;
 
 ## Working Papers
 
-- [**Producer Services in China**, 2026.](https://huxingecon.github.io/file/HLZ_2026.pdf) (JMP) <br>[Xing HU](https://huxing.site/), [Ming LI]([https://yatingjiang.weebly.com/](https://sites.google.com/view/mingli1)), and [Hongsong ZHANG](https://hongsongzhang.weebly.com/)<br>
+- [**Producer Services in China**, 2026.](https://huxingecon.github.io/file/HLZ_2026.pdf) (JMP) <br>[Xing HU](https://huxing.site/), [Ming LI]([https://yatingjiang.weebly.com/](https://sites.google.com/view/mingli1/), and [Hongsong ZHANG](https://hongsongzhang.weebly.com/)<br>
 
 - [**Returns to Scale, Productivity, and Markup: Revisit the Export Premium**, 2026.](https://huxingecon.github.io/file/HJZ_2026.pdf) (Submitted) <br>[Xing HU](https://huxing.site/), [Yangting JIANG](https://yatingjiang.weebly.com/), and [Hongsong ZHANG](https://hongsongzhang.weebly.com/)<br>
 
 - [**Market Access through Production Networks: Impact of Highway Development on Firm Performance**, 2026.](https://huxingecon.github.io/file/HHLZ_ESEM_2026.pdf) <br>[Guojun HE](https://www.guojunhe.com/), [Xing HU](https://huxing.site/), [Shengyu LI](https://shengyuli.weebly.com/), and [Hongsong ZHANG](https://hongsongzhang.weebly.com/)<br>
 
-- **Separating Markups from Markdowns without Material Prices**, 2026. (Draft available upon request))<br>[Xing HU](https://huxing.site/)<br>
+- **Separating Markups from Markdowns without Material Prices**, 2026. (Draft available upon request)<br>[Xing HU](https://huxing.site/)<br>
 
 ---
 
