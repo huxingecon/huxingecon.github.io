@@ -24,6 +24,8 @@ Latest Update: Feb 23th, 2026&nbsp;
 
 - **The Rise (and Fall) of Chinese Manufacturing Firms: Efficiency versus Market Power**<be>
 
+- **Does Firm Clustering Amplify or Dampen Trade Shocks? Evidence from China’s WTO Accession**<be>
+
 ---
 
 ## Conference Presentations
