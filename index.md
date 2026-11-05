@@ -10,7 +10,7 @@ Hello! I'm **Xing HU**.<br>
 
 I am currently a Post-doctoral Fellow at **the University of Hong Kong (HKU)**.<br> 
 
-My primary areas of research interest encompass **Empirical Industrial Organization**, **International Trade**, and **Chinese Economy**.<br> 
+My primary areas of research interest encompass **Empirical Industrial Organization**, **International Trade**, and **Applied Econometrics**.<br> 
 
 I am especially focused on examining the influence of policy shocks on firms' performance in **production**, **supply chains**, and **sales markets**, using both reduced-form causal design, structural estimation methodologies, and theoretical models.<br>
 
@@ -23,5 +23,7 @@ I am especially focused on examining the influence of policy shocks on firms' pe
 ## References
 
 - **[Professor Hongsong ZHANG](https://hongsongzhang.weebly.com/)**<br>HKU Business School<br>The University of Hong Kong <br>E-mail: hszhang@hku.hk<br>
+
+- **[Professor Guojun HE](https://www.guojunhe.com/)**<br>HKU Business School<br>The University of Hong Kong <br>E-mail: gjhe@hku.hk<br>
 
 - **[Professor Shengyu LI](https://shengyuli.weebly.com/)**<br>Business School<br>The University of New South Wales  <br>E-mail: shengyu.li@unsw.edu.au<br>
