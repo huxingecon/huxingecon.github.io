@@ -14,7 +14,7 @@ Latest Update: Feb 23th, 2026&nbsp;
 
 - [**Market Access through Production Networks: Impact of Highway Development on Firm Performance**, 2026.](https://huxingecon.github.io/file/HHLZ_ESEM_2026.pdf) <br>[Guojun HE](https://www.guojunhe.com/), [Xing HU](https://huxing.site/), [Shengyu LI](https://shengyuli.weebly.com/), and [Hongsong ZHANG](https://hongsongzhang.weebly.com/)<br>
 
-- [**How Reliable Is Inference in Staggered Difference-in-Differences?**, 2026.](https://huxingecon.github.io/file/HS_DiDInferece_2026Nov05.pdf)  <br>[Xing HU](https://huxing.site/) and [Yannan SUN](https://www.guojunhe.com/](https://www.hkubs.hku.hk/people/yannan-sun/)<br>
+- [**How Reliable Is Inference in Staggered Difference-in-Differences?**, 2026.](https://huxingecon.github.io/file/HS_DiDInferece_2026Nov05.pdf)  <br>[Xing HU](https://huxing.site/) and [Yannan SUN](https://www.hkubs.hku.hk/people/yannan-sun/)<br>
 
 - **Separating Markups from Markdowns without Material Prices**, 2026. (Draft available upon request)<br>[Xing HU](https://huxing.site/)<br>
 
