@@ -22,7 +22,7 @@ Latest Update: Nov 05th, 2026&nbsp;
 
 ## Publications / Revise & Resubmit
 
-- [**Technology, Productivity, and Markups: Model Specifications and Estimation Strategies of the Production Function**, 2026.](https://huxingecon.github.io/file/XHu_JES2026rr.pdf) <br>[Xing HU](https://huxing.site/); Revise & Resubmit, Journal of Economic Surveys (CiteScore: 14.1; Journal Impcat Factor: 6.6; H-index: 131)<br>
+- **Technology, Productivity, and Markups: Model Specifications and Estimation Strategies of the Production Function**, 2026. <br>[Xing HU](https://huxing.site/); Revise & Resubmit, Journal of Economic Surveys (CiteScore: 14.1; Journal Impcat Factor: 6.6; H-index: 131)<br>
 
 ---
 
