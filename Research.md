@@ -20,6 +20,13 @@ Latest Update: Nov 05th, 2026&nbsp;
 
 ---
 
+## Publications / Revise & Resubmit
+
+- *Technology, Productivity, and Markups: Model Specifications and Estimation Strategies of the Production Function**, 2026. <br>[Xing HU](https://huxing.site/); Revise & Resubmit, Journal of Economic Surveys (CiteScore: 14.1; Journal Impcat Factor: 6.6; H-index: 131)<br>
+
+---
+
+
 ## Selected Work in Progress
 
 - **The Rise (and Fall) of Chinese Manufacturing Firms: Efficiency versus Market Power**<be>
