@@ -75,9 +75,9 @@ At each meeting, one of our Ph.D. students presents either recent/classical pape
     </ul>
   </div>
   <div class="photography-grid">
-    <figure><img src="{{ '/assets/images/photography/the-keeper.jpg' | relative_url }}" alt="The Keeper, a photograph from the Sydney series" loading="lazy" /><figcaption>The Keeper <span>Sydney</span></figcaption></figure>
+    <figure><img src="{{ '/assets/images/photography/the-keeper-updated.jpg' | relative_url }}" alt="The Keeper, a photograph from the Sydney series" loading="lazy" /><figcaption>The Keeper <span>Sydney</span></figcaption></figure>
     <figure><img src="{{ '/assets/images/photography/a-hundred-year-of-the-green.jpg' | relative_url }}" alt="A Hundred Year of the Green, a photograph from the Hong Kong series" loading="lazy" /><figcaption>A Hundred Year of the Green <span>Hong Kong</span></figcaption></figure>
-    <figure><img src="{{ '/assets/images/photography/before-we-dare.jpg' | relative_url }}" alt="Before We Dare, a photograph from the Black and White series" loading="lazy" /><figcaption>Before We Dare <span>Black and White</span></figcaption></figure>
+    <figure><img src="{{ '/assets/images/photography/before-we-dare.jpg' | relative_url }}" alt="Before We Dare, a photograph from the Sydney series" loading="lazy" /><figcaption>Before We Dare <span>Sydney</span></figcaption></figure>
   </div>
 </section>
 
