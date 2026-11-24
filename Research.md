@@ -36,19 +36,21 @@ Latest Update: Nov 05th, 2026&nbsp;
 ---
 
 ## Conference Presentations
-- China Center for Economic Research Summer Institute <br>(in Peking University , Beijing, China, Jun 14-15, 2025)(Beijing)
+- Asia-Pacific Industrial Organization Conference (APIOC)<br>(at Xiamen University, Xiamen, China, December 11–13, 2026)<br>
 
-- The 14th Annual Meeting of China Trade Research Group<br>(in Lingnan University , Hong Kong SAR, China, Dec 6, 2024)<br>
+- China Center for Economic Research Summer Institute <br>(at Peking University , Beijing, China, Jun 14-15, 2025)<br>
 
-- The Asian Meeting of the Econometric Society<br>(in Zhejiang University , Hangzhou, China, Jun 28-30, 2024)<br>
+- The 14th Annual Meeting of China Trade Research Group<br>(at Lingnan University , Hong Kong SAR, China, Dec 6, 2024)<br>
 
-- The North American Summer Meeting of the Econometric Society<br>(in Vanderbilt University, Nashville, United States, Jun 13-16, 2024)<br>
+- The Asian Meeting of the Econometric Society<br>(at Zhejiang University , Hangzhou, China, Jun 28-30, 2024)<br>
 
-- The 11th Hong Kong Economic Association Biennial Conference<br>(in the University of Hong Kong , Hong Kong SAR, China, Dec 14-15, 2023)<br>
+- The North American Summer Meeting of the Econometric Society<br>(at Vanderbilt University, Nashville, United States, Jun 13-16, 2024)<br>
 
-- The Annual Meeting of the Latin American and the Caribbean Economic Association (LACEA) and the Latin American Meeting of the Econometric Society (LAMES)<br>(in The Pontificia Universidad Javeriana, Bogotá, Colombia, November 16-18, 2023)<br>
+- The 11th Hong Kong Economic Association Biennial Conference<br>(at the University of Hong Kong , Hong Kong SAR, China, Dec 14-15, 2023)<br>
 
-- The 6th China Opening and Development Research Forum<br>(in Huazhong University of Science and Technology, Wuhan, China, July 1-2, 2023)<br>
+- The Annual Meeting of the Latin American and the Caribbean Economic Association (LACEA) and the Latin American Meeting of the Econometric Society (LAMES)<br>(at The Pontificia Universidad Javeriana, Bogotá, Colombia, November 16-18, 2023)<br>
+
+- The 6th China Opening and Development Research Forum<br>(at Huazhong University of Science and Technology, Wuhan, China, July 1-2, 2023)<br>
 
   <br>
 
