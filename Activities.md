@@ -71,7 +71,7 @@ At each meeting, one of our Ph.D. students presents either recent/classical pape
     <ul class="photography-awards">
       <li><a href="https://px3.fr/winners/px3/2025/14917/">Prix de la Photographie Paris (PX3)</a> — Film / Documentary, Gold</li>
       <li><a href="https://newyorkphotographyawards.com/winner-info.php?id=12084">New York Photography Awards (NYPA)</a> — Professional Film, Silver</li>
-      <li><a href="https://photoawards.com/social/zoom.php?eid=8-1715757808-24">International Photography Awards (IPA)</a> — Professional Film, Official Selection and Honorable Mention</li>
+      <li><a href="https://photoawards.com/social/zoom.php?eid=8-1722612924-25">International Photography Awards (IPA)</a> — Professional Film, Official Selection and Honorable Mention</li>
     </ul>
   </div>
   <div class="photography-grid">
