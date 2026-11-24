@@ -20,15 +20,6 @@ layout: page
   </figure>
 </section>
 
-<section class="profile-press" aria-labelledby="profile-press-title">
-  <h2 id="profile-press-title">Profile &amp; Press</h2>
-  <ul>
-    <li><a href="https://baike.baidu.com/item/%E8%83%A1%E6%98%9F/66938020">Baidu Baike — 胡星</a></li>
-    <li><a href="https://news.qq.com/rain/a/20250923A05HAT00?suid=&amp;media_id=">Tencent News — 给力！桂林青年摄影师巴黎摘金</a></li>
-    <li><a href="https://epaper.guilinlife.com/glrbpc/glrb/20251002/Articel01004NR.htm">Guilin Daily — 报道（2025年10月2日）</a></li>
-  </ul>
-</section>
-
 <section class="references" aria-labelledby="references-title">
   <h2 id="references-title">References</h2>
   <div class="reference-grid">

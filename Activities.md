@@ -68,6 +68,7 @@ At each meeting, one of our Ph.D. students presents either recent/classical pape
   <div class="photography-intro">
     <p class="eyebrow">Beyond economics</p>
     <h2 id="photography-title">Photography</h2>
+    <p>I am also keen on photography, and my work has received several awards.</p>
     <ul class="photography-awards">
       <li><a href="https://px3.fr/winners/px3/2025/14917/">Prix de la Photographie Paris (PX3)</a> — Film / Documentary, Gold</li>
       <li><a href="https://newyorkphotographyawards.com/winner-info.php?id=12084">New York Photography Awards (NYPA)</a> — Professional Film, Silver</li>
@@ -79,6 +80,15 @@ At each meeting, one of our Ph.D. students presents either recent/classical pape
     <figure><img src="{{ '/assets/images/photography/a-hundred-year-of-the-green.jpg' | relative_url }}" alt="A Hundred Year of the Green, a photograph from the Hong Kong series" loading="lazy" /><figcaption>A Hundred Year of the Green <span>Hong Kong</span></figcaption></figure>
     <figure><img src="{{ '/assets/images/photography/before-we-dare.jpg' | relative_url }}" alt="Before We Dare, a photograph from the Sydney series" loading="lazy" /><figcaption>Before We Dare <span>Sydney</span></figcaption></figure>
   </div>
+</section>
+
+<section class="profile-press" aria-labelledby="profile-press-title">
+  <h2 id="profile-press-title">Profile &amp; Press</h2>
+  <ul>
+    <li><a href="https://baike.baidu.com/item/%E8%83%A1%E6%98%9F/66938020">Baidu Baike — Xing Hu</a></li>
+    <li><a href="https://news.qq.com/rain/a/20250923A05HAT00?suid=&amp;media_id=">Tencent News — Guilin Photographer Wins Gold in Paris</a></li>
+    <li><a href="https://epaper.guilinlife.com/glrbpc/glrb/20251002/Articel01004NR.htm">Guilin Daily — Coverage (October 2, 2025)</a></li>
+  </ul>
 </section>
 
 
