@@ -4,7 +4,7 @@ permalink: /Activities/index.html
 title: Activities
 ---
 
-Latest Update: Sep 8th, 2025&nbsp;
+Study group meetings last updated: Sep 8, 2025.
 
 ## HKU Economics and Finance Study Group
 
@@ -64,6 +64,18 @@ At each meeting, one of our Ph.D. students presents either recent/classical pape
 
 - Meeting 1: Mar 31, 2023, Presenter: [Xing HU](https://huxing.site/)<br>
 
-  <br>
+<section class="photography-section" aria-labelledby="photography-title">
+  <div class="photography-intro">
+    <p class="eyebrow">Beyond economics</p>
+    <h2 id="photography-title">Photography</h2>
+    <p>My photography explores urban life and portraiture, seeking quiet moments and reflections on people and society through film and digital images.</p>
+    <a class="portfolio-link" href="https://www.huxingphotography.com/">Explore the photography portfolio</a>
+  </div>
+  <div class="photography-grid">
+    <figure><img src="{{ '/assets/images/photography/puzzles.jpg' | relative_url }}" alt="Puzzles, a photograph from the Sydney series" loading="lazy" /><figcaption>Puzzles <span>Sydney</span></figcaption></figure>
+    <figure><img src="{{ '/assets/images/photography/jump.jpg' | relative_url }}" alt="Jump, a photograph from the Black and White series" loading="lazy" /><figcaption>Jump <span>Black and White</span></figcaption></figure>
+    <figure><img src="{{ '/assets/images/photography/greed.jpg' | relative_url }}" alt="Greed, a photograph from the Imagination series" loading="lazy" /><figcaption>Greed <span>Imagination</span></figcaption></figure>
+  </div>
+</section>
 
 
