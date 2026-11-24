@@ -68,13 +68,16 @@ At each meeting, one of our Ph.D. students presents either recent/classical pape
   <div class="photography-intro">
     <p class="eyebrow">Beyond economics</p>
     <h2 id="photography-title">Photography</h2>
-    <p>My photography explores urban life and portraiture, seeking quiet moments and reflections on people and society through film and digital images.</p>
-    <a class="portfolio-link" href="https://www.huxingphotography.com/">Explore the photography portfolio</a>
+    <ul class="photography-awards">
+      <li><a href="https://px3.fr/winners/px3/2025/14917/">Prix de la Photographie Paris (PX3)</a> — Film / Documentary, Gold</li>
+      <li><a href="https://newyorkphotographyawards.com/winner-info.php?id=12084">New York Photography Awards (NYPA)</a> — Professional Film, Silver</li>
+      <li><a href="https://photoawards.com/social/zoom.php?eid=8-1715757808-24">International Photography Awards (IPA)</a> — Professional Film, Official Selection and Honorable Mention</li>
+    </ul>
   </div>
   <div class="photography-grid">
-    <figure><img src="{{ '/assets/images/photography/puzzles.jpg' | relative_url }}" alt="Puzzles, a photograph from the Sydney series" loading="lazy" /><figcaption>Puzzles <span>Sydney</span></figcaption></figure>
-    <figure><img src="{{ '/assets/images/photography/jump.jpg' | relative_url }}" alt="Jump, a photograph from the Black and White series" loading="lazy" /><figcaption>Jump <span>Black and White</span></figcaption></figure>
-    <figure><img src="{{ '/assets/images/photography/greed.jpg' | relative_url }}" alt="Greed, a photograph from the Imagination series" loading="lazy" /><figcaption>Greed <span>Imagination</span></figcaption></figure>
+    <figure><img src="{{ '/assets/images/photography/the-keeper.jpg' | relative_url }}" alt="The Keeper, a photograph from the Sydney series" loading="lazy" /><figcaption>The Keeper <span>Sydney</span></figcaption></figure>
+    <figure><img src="{{ '/assets/images/photography/a-hundred-year-of-the-green.jpg' | relative_url }}" alt="A Hundred Year of the Green, a photograph from the Hong Kong series" loading="lazy" /><figcaption>A Hundred Year of the Green <span>Hong Kong</span></figcaption></figure>
+    <figure><img src="{{ '/assets/images/photography/before-we-dare.jpg' | relative_url }}" alt="Before We Dare, a photograph from the Black and White series" loading="lazy" /><figcaption>Before We Dare <span>Black and White</span></figcaption></figure>
   </div>
 </section>
 

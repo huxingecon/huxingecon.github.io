@@ -55,10 +55,12 @@ strong { font-weight: 600; }
 .photography-intro { max-width: 720px; }
 .photography-intro h2 { margin: 0 0 1.2rem; }
 .photography-intro p:not(.eyebrow) { color: var(--muted); }
-.portfolio-link { display: inline-block; margin: .2rem 0 2.5rem; font-size: .9rem; }
+.photography-awards { margin: 0 0 2.5rem; padding-left: 1.2rem; color: var(--muted); }
+.photography-awards li { margin-bottom: .8rem; padding-left: .2rem; }
+.photography-awards a { color: var(--ink); }
 .photography-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 1.25rem; }
 .photography-grid figure { margin: 0; min-width: 0; }
-.photography-grid img { width: 100%; height: auto; background: var(--border); }
+.photography-grid img { width: 100%; aspect-ratio: 3 / 4; object-fit: contain; background: #eee; }
 .photography-grid figcaption { display: flex; flex-wrap: wrap; justify-content: space-between; gap: .1rem 1rem; padding-top: .6rem; font-family: var(--title); font-size: 1rem; }
 .photography-grid figcaption span { color: var(--muted); font: 400 .75rem/2 var(--body); }
 .site-footer { border-top: 1px solid var(--border); color: var(--muted); }
