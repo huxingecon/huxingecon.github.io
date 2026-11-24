@@ -46,9 +46,14 @@ strong { font-weight: 600; }
 .intro-links { display: flex; flex-wrap: wrap; gap: .7rem 2rem; margin-top: 2rem; font-size: .9rem; }
 .portrait { margin: 0; }
 .portrait img { width: 100%; aspect-ratio: 4 / 5; object-fit: cover; object-position: center 25%; }
-.profile-press { margin-top: 6rem; padding-top: 1rem; border-top: 1px solid var(--border); }
-.profile-press ul { margin: 0; padding-left: 1.2rem; }
-.profile-press li { margin-bottom: .75rem; padding-left: .2rem; overflow-wrap: anywhere; }
+.meeting-list summary { display: inline-block; cursor: pointer; padding: .55rem 1rem; border: 1px solid var(--border); font-size: .9rem; font-weight: 500; list-style: none; }
+.meeting-list summary::-webkit-details-marker { display: none; }
+.meeting-list summary:hover { border-color: var(--ink); }
+.meeting-list summary:focus-visible { outline: 2px solid currentColor; outline-offset: 4px; }
+.meeting-list .hide-meetings, .meeting-list[open] .show-meetings { display: none; }
+.meeting-list[open] .hide-meetings { display: inline; }
+.meeting-list ul { max-width: 900px; margin: 1.5rem 0 0; padding-left: 1.3rem; }
+.meeting-list li { margin-bottom: 1.25rem; padding-left: .3rem; }
 .references { margin-top: 6rem; padding-top: 1rem; border-top: 1px solid var(--border); }
 .reference-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 2rem; }
 .reference-grid h3 { margin: 0 0 .65rem; }
@@ -83,7 +88,6 @@ strong { font-weight: 600; }
   .portrait { order: -1; width: min(100%, 320px); }
   .reference-grid { grid-template-columns: 1fr; gap: 1.25rem; }
   .references { margin-top: 4rem; }
-  .profile-press { margin-top: 4rem; }
   .photography-grid { grid-template-columns: 1fr; gap: 1.75rem; }
   .footer-inner { padding: 1.5rem 1.25rem; flex-wrap: wrap; }
 }
