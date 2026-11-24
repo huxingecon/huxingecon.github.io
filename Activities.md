@@ -66,7 +66,7 @@ At each meeting, one of our Ph.D. students presents either recent/classical pape
 
 <section class="sports-section" aria-labelledby="sports-title">
   <h2 id="sports-title">Sports</h2>
-  <p>I also play basketball and tennis. I was a member of my university tennis team and played as a starting small forward on a basketball team that won the university-wide championship.</p>
+  <p>I also play basketball and tennis. I was a member of my university tennis team and played as a starting forward on a basketball team that won the university-wide championship.</p>
   <div class="sports-gallery">
     <img src="{{ '/assets/images/sports/basketball.jpeg' | relative_url }}" alt="Xing Hu playing basketball" width="1024" height="609" loading="lazy" />
     <img src="{{ '/assets/images/sports/tennis.jpeg' | relative_url }}" alt="Xing Hu serving during a tennis game" width="553" height="1024" loading="lazy" />
