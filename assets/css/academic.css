@@ -71,7 +71,7 @@ strong { font-weight: 600; }
 .photography-grid img { width: 100%; aspect-ratio: 5 / 8; object-fit: cover; background: #eee; }
 .sports-section { margin-top: 4rem; padding-top: 1rem; border-top: 1px solid var(--border); }
 .sports-section p { max-width: 720px; color: var(--muted); }
-.sports-gallery { display: grid; grid-template-columns: minmax(0, 1.681445fr) minmax(0, .540039fr); gap: 1.25rem; align-items: start; margin-top: 2rem; }
+.sports-gallery { display: grid; grid-template-columns: minmax(0, .882353fr) minmax(0, .540039fr); gap: 1.25rem; align-items: start; margin-top: 2rem; }
 .sports-gallery img { width: 100%; height: auto; }
 .site-footer { border-top: 1px solid var(--border); color: var(--muted); }
 .footer-inner { max-width: 1200px; margin: auto; padding: 2rem; display: flex; justify-content: space-between; gap: 1rem; font-size: .78rem; letter-spacing: .05em; }
