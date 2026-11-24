@@ -55,12 +55,12 @@ At each meeting, one of our Ph.D. students presents either recent/classical pape
       <li><a href="https://newyorkphotographyawards.com/winner-info.php?id=12084">New York Photography Awards (NYPA)</a> — Professional Film, Silver</li>
       <li><a href="https://photoawards.com/social/zoom.php?eid=8-1722612924-25">International Photography Awards (IPA)</a> — Professional Film, Official Selection and Honorable Mention</li>
     </ul>
-    <p>My photography has been featured in <a href="https://news.qq.com/rain/a/20250923A05HAT00?suid=&amp;media_id=">Tencent News</a> and <a href="https://epaper.guilinlife.com/glrbpc/glrb/20251002/Articel01004NR.htm">Guilin Daily</a>, and I have a profile on <a href="https://baike.baidu.com/item/%E8%83%A1%E6%98%9F/66938020">Baidu Baike</a>.</p>
+    <p>My photography has been featured in <a href="https://news.qq.com/rain/a/20250923A05HAT00?suid=&amp;media_id=">Tencent News</a> and <a href="https://epaper.guilinlife.com/glrbpc/glrb/20251002/Articel01004NR.htm">Guilin Daily</a>. My biography is also included in <a href="https://baike.baidu.com/item/%E8%83%A1%E6%98%9F/66938020">Baidu Baike</a>.</p>
   </div>
   <div class="photography-grid">
-    <figure><img src="{{ '/assets/images/photography/the-keeper-updated.jpg' | relative_url }}" alt="The Keeper, a photograph from the Sydney series" loading="lazy" /><figcaption>The Keeper <span>Sydney</span></figcaption></figure>
-    <figure><img src="{{ '/assets/images/photography/a-hundred-year-of-the-green.jpg' | relative_url }}" alt="A Hundred Year of the Green, a photograph from the Hong Kong series" loading="lazy" /><figcaption>A Hundred Year of the Green <span>Hong Kong</span></figcaption></figure>
-    <figure><img src="{{ '/assets/images/photography/before-we-dare.jpg' | relative_url }}" alt="Before We Dare, a photograph from the Sydney series" loading="lazy" /><figcaption>Before We Dare <span>Sydney</span></figcaption></figure>
+    <figure><img src="{{ '/assets/images/photography/the-keeper-updated.jpg' | relative_url }}" alt="The Keeper, a photograph from the Sydney series" loading="lazy" /></figure>
+    <figure><img src="{{ '/assets/images/photography/threshold-new.jpg' | relative_url }}" alt="Threshold, a photograph from the Sydney series" loading="lazy" /></figure>
+    <figure><img src="{{ '/assets/images/photography/the-bridge.jpg' | relative_url }}" alt="The Bridge, a photograph from the Hong Kong series" loading="lazy" /></figure>
   </div>
 </section>
 

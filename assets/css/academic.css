@@ -68,9 +68,7 @@ strong { font-weight: 600; }
 .photography-awards a { color: var(--ink); }
 .photography-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 1.25rem; }
 .photography-grid figure { margin: 0; min-width: 0; }
-.photography-grid img { width: 100%; aspect-ratio: 3 / 4; object-fit: contain; background: #eee; }
-.photography-grid figcaption { display: flex; flex-wrap: wrap; justify-content: space-between; gap: .1rem 1rem; padding-top: .6rem; font-family: var(--title); font-size: 1rem; }
-.photography-grid figcaption span { color: var(--muted); font: 400 .75rem/2 var(--body); }
+.photography-grid img { width: 100%; aspect-ratio: 5 / 8; object-fit: cover; background: #eee; }
 .site-footer { border-top: 1px solid var(--border); color: var(--muted); }
 .footer-inner { max-width: 1200px; margin: auto; padding: 2rem; display: flex; justify-content: space-between; gap: 1rem; font-size: .78rem; letter-spacing: .05em; }
 @media (max-width: 800px) {
