@@ -2,6 +2,7 @@
 layout: page
 permalink: /Research/index.html
 title: Research
+page_class: research-page
 ---
 
 Latest Update: Nov 24th, 2026&nbsp;
@@ -42,15 +43,14 @@ Latest Update: Nov 24th, 2026&nbsp;
 
 - The 14th Annual Meeting of China Trade Research Group<br>(at Lingnan University , Hong Kong SAR, China, Dec 6, 2024)<br>
 
-- The Asian Meeting of the Econometric Society<br>(at Zhejiang University , Hangzhou, China, Jun 28-30, 2024)<br>
-
-- The North American Summer Meeting of the Econometric Society<br>(at Vanderbilt University, Nashville, United States, Jun 13-16, 2024)<br>
-
-- The 11th Hong Kong Economic Association Biennial Conference<br>(at the University of Hong Kong , Hong Kong SAR, China, Dec 14-15, 2023)<br>
-
-- The Annual Meeting of the Latin American and the Caribbean Economic Association (LACEA) and the Latin American Meeting of the Econometric Society (LAMES)<br>(at The Pontificia Universidad Javeriana, Bogotá, Colombia, November 16-18, 2023)<br>
-
-- The 6th China Opening and Development Research Forum<br>(at Huazhong University of Science and Technology, Wuhan, China, July 1-2, 2023)<br>
-
-  <br>
+<details class="meeting-list">
+  <summary><span class="show-meetings">See more presentations</span><span class="hide-meetings">See fewer presentations</span></summary>
+  <ul>
+    <li>The Asian Meeting of the Econometric Society<br />(at Zhejiang University, Hangzhou, China, Jun 28-30, 2024)</li>
+    <li>The North American Summer Meeting of the Econometric Society<br />(at Vanderbilt University, Nashville, United States, Jun 13-16, 2024)</li>
+    <li>The 11th Hong Kong Economic Association Biennial Conference<br />(at the University of Hong Kong, Hong Kong SAR, China, Dec 14-15, 2023)</li>
+    <li>The Annual Meeting of the Latin American and the Caribbean Economic Association (LACEA) and the Latin American Meeting of the Econometric Society (LAMES)<br />(at The Pontificia Universidad Javeriana, Bogotá, Colombia, November 16-18, 2023)</li>
+    <li>The 6th China Opening and Development Research Forum<br />(at Huazhong University of Science and Technology, Wuhan, China, July 1-2, 2023)</li>
+  </ul>
+</details>
 
