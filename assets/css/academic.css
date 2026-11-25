@@ -120,7 +120,7 @@ body, .site-header, .site-name, .site-name span, .navigation-links a, .theme-tog
 }
 @media (max-width: 600px) {
   .navigation-wrapper, .navigation-wrapper-home { width: calc(100% - 2.5rem); padding: .85rem 0; gap: .45rem 1rem; }
-  .navigation-links { gap: .4rem .45rem; }
+  .navigation-links { gap: .6rem 1rem; }
   .navigation-links a { font-size: .75rem; letter-spacing: .02em; }
   .site-main { width: calc(100% - 2.5rem); padding: 3rem 0 4rem; }
   .home-intro { grid-template-columns: 1fr; }
@@ -130,4 +130,7 @@ body, .site-header, .site-name, .site-name span, .navigation-links a, .theme-tog
   .photography-grid { grid-template-columns: 1fr; gap: 1.75rem; }
   .sports-gallery { gap: .75rem; }
   .footer-inner { padding: 1.5rem 1.25rem; flex-wrap: wrap; }
+}
+@media (max-width: 430px) {
+  .navigation-links { display: grid; grid-template-columns: repeat(3, max-content); gap: .5rem 1.25rem; }
 }
