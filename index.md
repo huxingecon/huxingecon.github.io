@@ -7,9 +7,9 @@ layout: page
     <p class="eyebrow">Economics · The University of Hong Kong</p>
     <h1>About Me</h1>
     <p class="intro-lead">Hello, I’m <strong>Xing Hu</strong>.</p>
-    <p>I am a Post-doctoral Fellow at <strong>the University of Hong Kong (HKU)</strong>.</p>
-    <p>My primary areas of research interest encompass <strong>Empirical Industrial Organization, International Trade, and Applied Econometrics</strong>.</p>
-    <p>I am especially focused on examining the influence of policy shocks on firms’ performance in <strong>production, supply chains, and sales markets</strong>, using both reduced-form causal design, structural estimation methodologies, and theoretical models.</p>
+    <p>I am a Post-doctoral Fellow at the University of Hong Kong (HKU).</p>
+    <p>My primary areas of research interest encompass Empirical Industrial Organization, International Trade, and Applied Econometrics.</p>
+    <p>I am especially focused on examining the influence of policy shocks on firms’ performance in production, supply chains, and sales markets, using both reduced-form causal design, structural estimation methodologies, and theoretical models.</p>
     <div class="intro-links">
       <a href="{{ '/file/CV_2026Nov23.pdf' | relative_url }}">Curriculum Vitae</a>
       <a href="mailto:huxing@connect.hku.hk">huxing@connect.hku.hk</a>
