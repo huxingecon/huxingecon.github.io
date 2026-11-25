@@ -6,6 +6,7 @@
   --border: #e0e0e0;
   --header-background: rgba(250, 250, 250, .72);
   --photo-background: #eee;
+  --research-link-hover: #80601f;
   --title: 'Playfair Display', 'Noto Serif SC', 'Noto Serif TC', serif;
   --body: 'Montserrat', 'Noto Serif SC', 'Noto Serif TC', sans-serif;
 }
@@ -17,6 +18,7 @@
   --border: #333;
   --header-background: rgba(18, 18, 18, .72);
   --photo-background: #2a2a2a;
+  --research-link-hover: #d4b16a;
   color-scheme: dark;
 }
 * { box-sizing: border-box; }
@@ -47,6 +49,7 @@ a:focus-visible { outline: 2px solid currentColor; outline-offset: 4px; }
 .article-wrap { max-width: 1000px; margin: auto; }
 .article-wrap.home-page { max-width: none; }
 .research-page a { text-decoration: none; }
+.research-page a:hover, .research-page a:focus-visible { color: var(--research-link-hover); }
 h1, h2, h3 { font-family: var(--title); font-weight: 400; line-height: 1.25; letter-spacing: .02em; }
 h1 { margin: 0 0 2rem; font-size: clamp(2.8rem, 5vw, 4.5rem); }
 h2 { margin: 3.5rem 0 1.25rem; font-size: clamp(1.8rem, 3vw, 2.5rem); }
