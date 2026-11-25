@@ -2,9 +2,8 @@
 layout: page
 permalink: /Activities/index.html
 title: Activities
+updated_label: "Study group meetings last updated: Sep 8, 2025."
 ---
-
-Study group meetings last updated: Sep 8, 2025.
 
 ## HKU Economics and Finance Study Group
 

@@ -2,9 +2,8 @@
 layout: page
 permalink: /Teaching/index.html
 title: Teaching
+updated_label: "Latest Update: Feb 23rd, 2026"
 ---
-
-Latest Update: Feb 23rd, 2026&nbsp;
 
 ## Lecturer
 

@@ -3,9 +3,8 @@ layout: page
 permalink: /Research/index.html
 title: Research
 page_class: research-page
+updated_label: "Latest Update: Nov 24th, 2026"
 ---
-
-Latest Update: Nov 24th, 2026&nbsp;
 
 ## Working Papers
 

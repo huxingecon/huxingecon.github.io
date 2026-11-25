@@ -16,7 +16,14 @@
   {% include navigation.html %}
   <main id="main" class="site-main">
     <article class="article-wrap{% if page.url == '/' %} home-page{% endif %}{% if page.page_class %} {{ page.page_class }}{% endif %}">
-      {% if page.url != '/' and page.title %}<h1 class="page-title">{{ page.title }}</h1>{% endif %}
+      {% if page.url != '/' and page.title %}
+        {% if page.updated_label %}
+        <header class="page-heading">
+          <h1 class="page-title">{{ page.title }}</h1>
+          <p class="page-updated">{{ page.updated_label }}</p>
+        </header>
+        {% else %}<h1 class="page-title">{{ page.title }}</h1>{% endif %}
+      {% endif %}
       {{ content }}
     </article>
   </main>
