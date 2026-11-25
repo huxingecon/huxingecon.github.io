@@ -16,7 +16,7 @@ layout: page
     </div>
   </div>
   <figure class="portrait">
-    <img src="{{ '/assets/images/portrait/huxing-photo.jpeg' | relative_url }}" alt="Portrait of Xing Hu" width="1645" height="2194" />
+    <img src="{{ '/assets/images/portrait/huxing-photo-20261125.jpeg' | relative_url }}" alt="Portrait of Xing Hu" width="1344" height="1792" />
   </figure>
 </section>
 
